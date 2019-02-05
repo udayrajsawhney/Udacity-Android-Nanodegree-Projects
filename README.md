@@ -1,10 +1,8 @@
 # Udacity Android Developer Nanodegree Projects
 
-**[Udacity Nanodegree Course](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801)**
+<h1 align="center"> [Udacity Nanodegree Course](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) </h1>
 
 ✏️ Prerequisites
-
----
 
 - [Picasso](https://github.com/square/picasso)
 - [ExoPlayer](https://github.com/google/ExoPlayer)
