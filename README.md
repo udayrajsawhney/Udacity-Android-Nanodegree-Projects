@@ -63,4 +63,4 @@ Weather app that students build during the Developing Android Apps course at Uda
 
 #### Screeshots
 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/14.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/15.png" width="180" height="370"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/14.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/15.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/16.png" width="370" height="180"/>
