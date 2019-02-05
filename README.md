@@ -56,3 +56,11 @@ Building a layout and populating its fields from data received as JSON is a comm
 #### Screeshots
 
 <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/12.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/13.png" width="180" height="370"/>
+
+## Sunshine!
+
+Weather app that students build during the Developing Android Apps course at Udacity.
+
+#### Screeshots
+
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/14.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/15.png" width="180" height="370"/>
