@@ -22,3 +22,13 @@
 ### Screenshots
 
 <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/3.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/4.png" width="360" height="740"/>
+
+### BAKING APP
+
+You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
+
+As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
+
+#### Screesnhots
+
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/5.png" width="380"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/6.png" width="380"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/7.png" width="380"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/8.png" width="380"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/9.png" width="380"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/10.png" width="380"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/11.png" width="380"/>
