@@ -12,7 +12,7 @@
 - [Glide](https://github.com/bumptech/glide)
 - [RXJava](https://github.com/ReactiveX/RxJava)
 
-### POPULAR MOVIES, STAGE 1 and POPULAR MOVIES, STAGE 2
+## POPULAR MOVIES, STAGE 1 and POPULAR MOVIES, STAGE 2
 
 - You will fetch data from the Internet with the [MovieDB API](https://www.themoviedb.org/).
 
@@ -33,7 +33,7 @@
 
 <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/3.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/4.png" width="180" height="370"/>
 
-### BAKING APP
+## BAKING APP
 
 - Use MediaPlayer/Exoplayer to display videos.
 - Handle error cases in Android.
