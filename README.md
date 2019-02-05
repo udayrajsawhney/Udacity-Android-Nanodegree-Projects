@@ -19,7 +19,7 @@
 * You’ll also allow users to mark a movie as a favorite in the details view by tapping a button (star).
 * You'll make use of Android Architecture Components (Room, LiveData, ViewModel and Lifecycle) to create a robust an efficient application.
 
-#### Display
+### Screenshots
 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="380"/> 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="380"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="360" height="740"/> 
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="360" height="740"/>
