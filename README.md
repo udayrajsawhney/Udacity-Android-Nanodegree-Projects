@@ -2,6 +2,18 @@
 
 **[Udacity Nanodegree Course](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801)**
 
+✏️ Prerequisites
+
+---
+
+- [Picasso](https://github.com/square/picasso)
+- [ExoPlayer](https://github.com/google/ExoPlayer)
+- [Retrofit](https://github.com/square/retrofit)
+- [Butter Knife](https://github.com/JakeWharton/butterknife)
+- [Logger](https://github.com/orhanobut/logger)
+- [Glide](https://github.com/bumptech/glide)
+- [RXJava](https://github.com/ReactiveX/RxJava)
+
 ### POPULAR MOVIES, STAGE 1 and POPULAR MOVIES, STAGE 2
 
 - You will fetch data from the Internet with the [MovieDB API](https://www.themoviedb.org/).
@@ -33,7 +45,7 @@
 
 #### Screeshots
 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/5.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/6.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/7.png" width="370" height="180"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/8.png" width="180" height="370"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/5.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/6.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/7.png" width="370" height="180"/>
 
 #### Tablet Screeshots
 
