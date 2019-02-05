@@ -21,7 +21,7 @@
 
 ### Screenshots
 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/3.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/4.png" width="360" height="740"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/3.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/4.png" width="180" height="370"/>
 
 ### BAKING APP
 
@@ -33,8 +33,8 @@
 
 #### Screeshots
 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/5.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/6.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/7.png" width="360" height="740"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/8.png" width="360" height="740"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/5.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/6.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/7.png" width="370" height="180"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/8.png" width="180" height="370"/>
 
 #### Tablet Screeshots
 
-<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/9.png" width="768" height="1024"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/10.png" width="768" height="1024"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/11.png" width="1024" height="768"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/9.png" width="384" height="512"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/10.png" width="384" height="512"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/11.png" width="512" height="384"/>
