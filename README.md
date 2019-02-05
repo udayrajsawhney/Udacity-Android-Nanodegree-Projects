@@ -1,6 +1,6 @@
 # Udacity Android Developer Nanodegree Projects
 
-<h1 align="center"> [Udacity Nanodegree Course](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801) </h1>
+**[Udacity Nanodegree Course](https://in.udacity.com/course/android-developer-nanodegree-by-google--nd801)**
 
 ✏️ Prerequisites
 
@@ -48,3 +48,11 @@
 #### Tablet Screeshots
 
 <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/9.png" width="384" height="512"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/10.png" width="384" height="512"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/11.png" width="512" height="384"/>
+
+## The Sandwich Club
+
+Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
+
+#### Screeshots
+
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/12.png" width="180" height="370"/> <img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/13.png" width="180" height="370"/>
