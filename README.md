@@ -21,5 +21,5 @@
 
 #### Display
 
-<img src="/screenshots/1.jpg" width="380"/> 
-<img src="/screenshots/2.jpg" width="380"/>
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/1.png" width="380"/> 
+<img src="https://github.com/udayrajsawhney/Udacity-Android-Nanodegree-Projects/blob/master/screenshots/2.png" width="380"/>
